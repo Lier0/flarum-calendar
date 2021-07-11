@@ -1,6 +1,5 @@
 const config = require('flarum-webpack-config');
-
-var merge = require('webpack-merge');
+const merge  = require('webpack-merge');
 
 const myConfig = {
   module: {
